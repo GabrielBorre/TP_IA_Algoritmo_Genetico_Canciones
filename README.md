@@ -5,7 +5,9 @@ El total de canciones utilizadas para ejecutar el algoritmo se encuentra en el a
 
 ## Instalación
 Acceder a Google Drive usando una cuenta disponible.
+
 Crear la carpeta "IA_AG_Canciones" en el raíz de la unidad (si no existe).
+
 Subir todos los archivos de este repositorio dentro de la carpeta creada en el paso anterior.
 
 ## Uso
