@@ -1,0 +1,101 @@
+Unnamed: 0,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+53203,2prnn41CblB8B4yWACDljP,Shouse;David Guetta,Love Tonight (David Guetta Remix),Love Tonight - David Guetta Remix Edit,81,158095,False,0.621,0.989,10,-4.225,0,0.0434,0.015,0.357,0.184,0.0348,126.002,4,house
+53064,24Yi9hE78yPEbZ4kxyoXAI,SAINt JHN;Imanbek,Roses (Imanbek Remix),Roses - Imanbek Remix,81,176840,True,0.77,0.724,8,-5.484,1,0.0495,0.0167,0.0107,0.353,0.898,121.975,4,house
+23100,3XucsgiwXb8KPn9Csf9Zmu,James Hype;Miggy Dela Rosa;Lazza,Ferrari (Remix),Ferrari - Remix,80,172000,False,0.818,0.728,1,-5.705,0,0.0724,0.0985,0.0,0.0917,0.597,124.974,4,deep-house
+53301,11kDth1aKUEUMq9r1pqyds,Travis Scott,ASTROWORLD,5% TINT,79,196138,True,0.712,0.481,4,-5.415,0,0.0487,0.173,0.0,0.241,0.062,140.0,4,house
+53351,2cYqizR4lgvp4Qu6IQ3qGN,Travis Scott,ASTROWORLD,BUTTERFLY EFFECT,79,190557,False,0.763,0.628,11,-5.85,1,0.05,0.0531,0.0,0.114,0.193,140.958,4,house
+53526,2GYHyAoLWpkxLVa4oYTVko,Stromae,Cheese,Alors on danse - Radio Edit,78,206066,False,0.791,0.59,1,-9.206,0,0.0793,0.0994,0.00203,0.065,0.714,119.951,4,house
+13001,6WkJ2OK163XXS2oARUC9JM,Aaron Smith;Krono;Luvli,Dancin (feat. Luvli) [Krono Remix],Dancin (feat. Luvli) - Krono Remix,78,198053,False,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,4,chicago-house
+53910,1HFfMOxCAT4GAwaPfCdmUs,Mr. Probz;Robin Schulz,Waves (Robin Schulz Radio Edit),Waves - Robin Schulz Radio Edit,77,208133,False,0.829,0.51,5,-9.334,0,0.0369,0.00821,0.00143,0.0829,0.45,119.994,4,house
+53061,62aP9fBQKYKxi7PDXwcUAS,Surf Mesa;Emilee,ily (i love you baby) (feat. Emilee),ily (i love you baby) (feat. Emilee),77,176546,False,0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,0.393,0.33,112.05,4,house
+53813,1A8j067qyiNwQnZT0bzUpZ,Kungs;Cookin' On 3 Burners,Layers,This Girl (Kungs Vs. Cookin' On 3 Burners),77,195546,False,0.792,0.717,0,-4.759,0,0.0393,0.0927,3.59e-05,0.226,0.466,121.985,4,house
+23004,5tf1VVWniHgryyumXyJM7w,Robin Schulz;Francesco Yates,Sugar,Sugar (feat. Francesco Yates),76,219043,False,0.636,0.815,5,-5.098,0,0.0581,0.0185,0.0,0.163,0.636,123.063,4,deep-house
+53452,27a1mYSG5tYg7dmEjWBcmL,Travis Scott,ASTROWORLD,CAN'T SAY,76,198408,True,0.702,0.708,10,-5.366,0,0.0547,0.201,0.0,0.118,0.713,147.98,4,house
+53952,51ODNNDZm21HU7wI7cccRr,Disclosure;Sam Smith,Settle (Special Edition),Latch,76,255631,False,0.503,0.727,1,-5.456,1,0.167,0.0159,9.45e-05,0.0895,0.521,121.985,4,house
+53401,7lAK3oHbfEnvUQWosrMMpR,Travis Scott,ASTROWORLD,YOSEMITE,75,150043,True,0.785,0.554,0,-6.571,1,0.0409,0.283,3.4e-06,0.116,0.144,128.047,4,house
+53462,6ho0GyrWZN3mhi9zVRW7xi,FISHER,Losing It,Losing It,75,248035,False,0.76,0.964,2,-5.844,1,0.0577,0.00181,0.703,0.0975,0.643,125.003,4,house
+53861,39cmB3ZoTOLwOTq7tMNqKa,Alok;Zeeba;Bruno Martini,Hear Me Now (feat. Zeeba),Hear Me Now,75,194840,False,0.778,0.463,11,-7.603,1,0.0389,0.546,0.00289,0.0731,0.496,121.999,4,house
+53354,7wBJfHzpfI3032CSD7CE2m,Travis Scott,ASTROWORLD,STARGAZING,75,270714,True,0.487,0.789,8,-3.69,1,0.044,0.00947,4.05e-06,0.189,0.0564,150.007,4,house
+53063,20McUFi8KCIVdNDLrkTDuZ,HVME,Goosebumps,Goosebumps,75,163208,True,0.767,0.659,1,-7.429,1,0.0444,0.325,0.0,0.13,0.439,124.946,4,house
+53780,3Dzso9Q2WwupEclqgxBZht,Madism;MKJ;Felix Samuel,Pumped Up Kicks,Pumped Up Kicks,74,145161,False,0.669,0.687,0,-4.753,1,0.043,0.152,1.6e-05,0.308,0.386,123.903,4,house
+23076,4ASOMWcJUrwEpjJy4GEijz,Chris Lorenzo;High Jinx,California Dreamin' (feat. High Jinx),California Dreamin' (feat. High Jinx),74,196899,False,0.685,0.911,9,-4.977,1,0.144,0.00552,0.0247,0.285,0.351,128.02,4,deep-house
+53912,34dx8DACTJsc3rsJdaEIQw,Stromae,racine carrée,Papaoutai,74,232146,False,0.734,0.809,10,-7.264,0,0.0839,0.0266,0.0,0.0642,0.254,116.024,4,house
+53977,0vR2rIVORmgeKiGIgNT0fV,Calvin Harris;Tom Grennan,By Your Side (feat. Tom Grennan),By Your Side (feat. Tom Grennan),74,189671,False,0.733,0.96,7,-3.597,1,0.0295,0.0514,0.00199,0.287,0.811,124.01,4,house
+53755,4MXhiYIRDMGAuvZc5IFTwC,Travis Scott,ASTROWORLD,ASTROTHUNDER,74,142969,True,0.7,0.46,4,-8.111,0,0.0661,0.142,4.81e-05,0.111,0.286,151.901,4,house
+53771,2MlOUXmcofMackX3bxfSwi,Master KG;Nomcebo Zikode,Jerusalema,Jerusalema (feat. Nomcebo Zikode),74,342612,False,0.88,0.483,1,-7.012,1,0.0505,0.0185,8.68e-06,0.0607,0.827,124.009,4,house
+53832,2LxdNADWier3MKTei8FbOY,Oliver Heldens;Nile Rodgers;House Gospel Choir,I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir),I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir),74,157205,False,0.686,0.892,10,-3.186,0,0.0498,0.0577,7.11e-06,0.0838,0.752,126.03,4,house
+53659,1wHZx0LgzFHyeIZkUydNXq,Travis Scott,Rodeo (Expanded Edition),Antidote,74,262693,True,0.713,0.526,1,-5.046,1,0.032,0.00767,0.000148,0.124,0.131,131.05,4,house
+53762,4J7CKHCF3mdL4diUsmW8lq,Calvin Harris;Alesso;Hurts,Motion,Under Control (feat. Hurts),73,184280,False,0.544,0.915,8,-3.405,1,0.0841,0.129,0.000914,0.115,0.51,126.094,4,house
+53779,73QyyUMMvtNELmULI4FOsp,Sigala;Rita Ora,You for Me,You for Me,73,175435,False,0.733,0.886,2,-1.856,0,0.0426,0.0481,1.81e-06,0.191,0.696,126.031,4,house
+23051,61UQzeiIluhpzpMdY4ag3q,Route 94;Jess Glynne,My Love (feat. Jess Glynne),My Love (feat. Jess Glynne),73,259934,False,0.814,0.622,8,-7.573,1,0.0492,0.000132,0.72,0.0658,0.726,119.976,4,deep-house
+83161,5itOtNx0WxtJmi1TQ3RuRd,Calvin Harris;Rag'n'Bone Man,Giant (with Rag'n'Bone Man),Giant (with Rag'n'Bone Man),73,229184,False,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,4,progressive-house
+53604,6OaVWaGfhXn70ZJfdVcabn,Travis Scott,ASTROWORLD,NO BYSTANDERS,73,218283,True,0.731,0.811,1,-3.225,1,0.0712,0.0204,0.0,0.411,0.426,147.045,4,house
+53471,0H8Tclo4x4kbZruQtZFNSX,NEIKED;Anne-Marie;Latto,I Just Called,I Just Called,73,150560,False,0.626,0.849,7,-3.662,1,0.123,0.0732,0.0,0.593,0.898,138.997,4,house
+23056,4xbXuRfZ2ZLktw5QEdGYnX,Robin Schulz;David Guetta,On Repeat,On Repeat,73,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,deep-house
+83153,24LS4lQShWyixJ0ZrJXfJ5,Calvin Harris;Florence Welch,18 Months,Sweet Nothing (feat. Florence Welch),72,212560,False,0.573,0.929,8,-3.942,0,0.109,0.197,0.000112,0.0567,0.582,127.934,4,progressive-house
+53655,08F16baYbciTva9P4BvpiI,Travis Scott,ESCAPE PLAN / MAFIA,MAFIA,72,240000,True,0.855,0.492,0,-7.578,0,0.0483,0.0775,6.71e-06,0.111,0.385,109.975,4,house
+53850,6NMtzpDQBTOfJwMzgMX0zl,Travis Scott,ASTROWORLD,SKELETONS,72,145588,True,0.46,0.686,0,-5.948,0,0.0367,0.00146,0.0,0.375,0.252,148.054,4,house
+53529,0YU17F0BlVXvmx5ytsR43w,LUM!X;Gabry Ponte,Monster,Monster,72,154226,False,0.83,0.794,8,-6.279,0,0.432,0.0253,0.0248,0.106,0.607,128.16,4,house
+43067,2SgbR6ttzoNlCRGQOKjrop,Pantera,Cowboys from Hell,Cowboys from Hell,72,243533,True,0.415,0.908,2,-9.701,1,0.0765,0.00437,0.0345,0.082,0.437,114.816,4,groove
+23050,1HrMWH5GUdK6Yi94rbANJA,CamelPhat;Elderbrook,Cola,Cola,72,223869,False,0.706,0.74,6,-7.904,1,0.0325,0.0245,0.512,0.135,0.444,122.007,3,deep-house
+43130,6GqqGv8frU7kqzXkm2rewI,Five Finger Death Punch,F8,A Little Bit Off,72,190718,True,0.664,0.828,0,-6.053,1,0.0404,0.00839,0.0,0.294,0.82,103.985,4,groove
+23065,0pIiCv0GdhtsOjCJ5Y7zHj,HUGEL;Cumbiafrica,Morenita,Morenita,71,176491,False,0.639,0.769,1,-5.077,1,0.0383,0.000701,0.742,0.0553,0.177,123.983,4,deep-house
+23052,44xO8889yUQHn70P73NILS,Navos,Believe Me,Believe Me,71,188260,False,0.629,0.876,5,-5.572,0,0.0408,0.129,1.39e-06,0.29,0.645,124.999,4,deep-house
+23108,7me5d5XmtCCfbDk3SsyXqM,D.O.D,Every Step,Every Step,71,159857,False,0.662,0.872,0,-4.874,0,0.0318,0.0729,0.016,0.156,0.372,121.989,4,deep-house
+53671,53kWAAfx7IopXRa31MQHB8,HRVY;Matoma,Good Vibes,Good Vibes,71,170280,False,0.558,0.877,10,-3.392,1,0.145,0.274,0.0,0.162,0.762,99.988,4,house
+53625,0MWiSBKm8Avs8iDIxcertp,Anne-Marie;Little Mix,Therapy,Kiss My (Uh Oh),71,176800,False,0.638,0.878,5,-3.639,0,0.0484,0.0151,0.000223,0.308,0.481,103.948,4,house
+83300,7kfOEMJBJwdCYqyJeEnNhr,Swedish House Mafia;The Weeknd,Moth To A Flame,Moth To A Flame (with The Weeknd),71,234000,False,0.542,0.659,8,-7.289,1,0.0389,0.00279,0.0,0.105,0.109,120.122,4,progressive-house
+83158,4b93D55xv3YCH5mT4p6HPn,Duke Dumont,Duality,Ocean Drive,71,206320,False,0.67,0.776,8,-4.091,0,0.047,0.00388,0.000184,0.122,0.624,115.034,4,progressive-house
+83128,3MOECVkNshqHYTPt5DZcdN,Deorro;Chris Brown,Good Evening,Five More Hours,70,211975,False,0.699,0.883,5,-3.226,0,0.219,0.0288,0.0,0.817,0.499,127.961,4,progressive-house
+83990,4UCdQ7bEg49S8P9rq5HVRO,Andrew Bayer,Journey To ABGT500 pt.2,The District (ABGT499D3),32,299536,False,0.567,0.855,1,-5.844,0,0.0857,0.000522,0.584,0.0813,0.151,128.112,4,progressive-house
+73169,3yNIpUlA4A3z4G54DM5pUM,Jan Blomqvist;Rodriguez Jr.,Maybe Not (Rodriguez Jr. Remix),Maybe Not - Rodriguez Jr. Remix,44,217758,False,0.56,0.859,1,-9.272,1,0.053,0.059,0.826,0.149,0.129,122.016,4,minimal-techno
+13746,1aAfayUxjBZ4JCWcaloXdn,Roy Davis Jr.,Soul Electrica,Lyrical Trip,5,341000,False,0.8,0.326,7,-13.164,1,0.0943,0.0249,0.583,0.0801,0.41,100.055,4,chicago-house
+13331,1J8rzn9xFOeW1tbZkj2i5U,Felix Da Housecat,Devin Dazzle & The Neon Fever,She's So D*mn Cool,11,171600,False,0.769,0.566,5,-9.81,0,0.0348,0.271,0.849,0.235,0.921,120.009,4,chicago-house
+43818,4cuJbDiraxt9AsEeevmFuQ,Anton Powers;Redondo,Make Your Move,Make Your Move,61,168991,False,0.647,0.992,4,-2.748,0,0.0971,0.0248,0.106,0.156,0.555,124.0,4,groove
+83215,3J57KX2pdbNW4SWoV1QYwR,Afrojack,Rock The House,Rock The House,42,230791,False,0.689,0.841,4,-5.592,0,0.0862,0.0176,0.776,0.137,0.541,130.049,4,progressive-house
+83771,45GtpfaI7fg7mSZBQTNJss,Hardwell;Quintino,Reckless,Reckless,42,148125,False,0.618,0.974,6,-3.102,0,0.0994,0.00302,0.267,0.0634,0.112,128.028,4,progressive-house
+13851,3yilgLESv6zoBnGPsRM7Qh,Marshall Jefferson;George Smeddles;Paris Brightledge,It’s Alright,It’s Alright,40,210181,False,0.833,0.928,9,-5.17,0,0.0583,0.0308,0.0974,0.109,0.912,125.997,4,chicago-house
+73425,6c4ZbgwtaOfGe4ZPLbF3Uz,Jan Blomqvist;Solee,Elephant Shunned (Solee Remix),Elephant Shunned - Solee Remix,41,219512,False,0.616,0.885,8,-7.919,1,0.0388,0.0252,0.835,0.132,0.0519,123.018,4,minimal-techno
+23188,33oQaDZex8PFThfgpCpOdH,Autograf;Tiina,Love Runs Deep,Love Runs Deep,60,166004,False,0.815,0.705,11,-4.934,0,0.135,0.0294,1.62e-06,0.173,0.516,123.981,4,deep-house
+43349,687iFXYr1oiwT8c4RuW1jk,Novo Som;Lívia Gavazzi,Novo Som 25 Anos: Escrevendo Histórias... (Ao Vivo),Nossa Historia - Ao Vivo,31,294413,False,0.168,0.491,2,-9.047,1,0.0295,0.151,1.99e-05,0.806,0.224,180.124,3,groove
+24558,58Y169ghQ6IpubqS1SMSP7,Orlando Voorn,Positive Vibes,Positive Vibes,6,426870,False,0.71,0.878,6,-6.608,0,0.039,0.00012,0.866,0.0549,0.809,131.014,4,detroit-techno
+109054,5qA35ZZWFOqynheP5x8rty,Noir;Hayze;Solomun,Around,Around - Solomun Vox,58,418594,False,0.867,0.345,1,-11.042,1,0.0768,0.0212,0.666,0.103,0.259,115.0,4,techno
+24480,6gpyojsrdTrg7CcVS50DqM,Terrence Parker,Pure Disco,Pure Disco,7,337031,False,0.644,0.783,2,-10.19,1,0.0434,0.00053,0.899,0.0639,0.713,125.525,4,detroit-techno
+109462,52jbwCmtKlxKJg8vAoyRxq,Alexander Alar,Amsterdam,Dubai - Original Mix,28,425511,False,0.738,0.689,8,-7.994,1,0.0513,0.0179,0.573,0.111,0.488,123.004,4,techno
+43321,6IfOFGLpJmYSyrKed5N3gk,Rogér Fakhr,Fine Anyway (Habibi Funk 016),Fine Anyway,52,163437,False,0.602,0.39,4,-9.198,0,0.0408,0.848,0.00025,0.114,0.484,62.47,4,groove
+23757,1GvyPmmkOxcrnLBjpgFBPX,Ferreck Dawn;Guz;L.I.T,Caught In The Rain,Caught In The Rain,56,142800,False,0.732,0.89,1,-7.021,0,0.0647,0.0312,0.000233,0.162,0.217,124.989,4,deep-house
+73356,53k0rPq5qhzslsjB3XBdl8,Kiasmos,Looped,Looped,41,377402,False,0.813,0.414,7,-11.357,0,0.05,0.0278,0.846,0.319,0.117,120.011,4,minimal-techno
+43226,14EMbN1HUrgQsXQInLmn94,Leidy Murilho,Aleluia,Aleluia,33,171320,False,0.712,0.796,7,-5.467,1,0.0479,0.0686,0.000114,0.101,0.912,103.02,4,groove
+109329,7g8cjrj0sXScNE727685JE,Zombie Nation,Kernkraft 400 Single Mixes,"Kernkraft 400 - DJ Gius Mix, Radio Edit",64,207266,False,0.714,0.528,6,-8.789,1,0.0692,0.00415,0.854,0.0819,0.297,139.983,4,techno
+53499,5pXw5DlkbBWf7bSWzbVeZM,Jess Glynne,New Pop Icons,Rollin,0,218040,True,0.716,0.752,1,-3.504,0,0.0533,0.000804,0.0,0.0757,0.708,117.025,4,house
+23706,2aKxfUQg9dhvgm7Yt9Lc7Q,Autograf;French Horn Rebellion;Flyboy,Gravity / Dead Soon (Remixes),Gravity (Flyboy Remix feat. French Horn Rebellion & Flyboy),49,211960,False,0.628,0.565,4,-7.702,1,0.0408,0.141,0.00916,0.106,0.153,120.042,4,deep-house
+43582,1mWXp0i05ctotmsN2cB7cz,Kemuel,"Sacrifício, Vol. 1",Eli Eli,33,215067,False,0.347,0.37,7,-11.935,1,0.0285,0.68,0.0103,0.627,0.137,126.746,4,groove
+23781,0MJrPeuSXdHBPfsoaaFEIG,Olly James,The Age Of Rave,The Age Of Rave,51,184229,False,0.602,0.917,7,-4.933,1,0.0876,0.0042,0.63,0.102,0.237,142.045,4,deep-house
+23495,76DUHirDFCUH9B3NDiyKqe,Nhan Solo,"Cala Bassa Beach Club Ibiza, Vol. 2 (Compiled by DJ Zappi)",Tell You,31,368612,False,0.901,0.751,11,-6.867,0,0.0736,0.0177,0.832,0.123,0.23,118.0,4,deep-house
+109487,2wz5weI4PREzpexKfrKgwv,La Bouche,Greatest Hits,Sweet Dreams,62,204586,False,0.656,0.956,11,-5.647,0,0.0536,0.0784,0.0247,0.0923,0.831,133.713,4,techno
+24364,1XVhPuKBj8HMQy7wfZ0xH8,ONYVAA;Mattia Trani;Dj Exos,Climax EP,Climax - Dj Exos remix 1,8,336500,False,0.604,0.95,11,-7.591,0,0.102,9.78e-05,0.89,0.103,0.182,140.027,4,detroit-techno
+73485,5ZTHOf00jxuqRhAW9fKXKJ,Booka Shade,Contour EP,Blue Elephant (Contour 4),44,321633,False,0.787,0.912,0,-8.04,0,0.0443,0.0757,0.892,0.173,0.496,125.005,4,minimal-techno
+109239,3P4lqTLBjHHIqszDF8xB8F,Talla 2XLC;Roland Klein,Nexus Point,Nexus Point,46,223767,False,0.374,0.96,4,-6.075,0,0.0499,7.42e-05,0.978,0.736,0.129,139.999,4,techno
+13010,796T2ROxTNibXRjVhjSzCa,Joe Smooth,Promised Land,Promised Land,55,331706,False,0.718,0.93,7,-4.532,1,0.038,0.0026,0.0176,0.0363,0.697,128.736,4,chicago-house
+13184,1nRCRdnAnKqeTq09jEECIA,Mr. Fingers,Amnesia,Bye Bye,14,315935,False,0.815,0.337,9,-13.557,0,0.0431,0.154,0.397,0.0991,0.677,117.897,4,chicago-house
+23774,61bUwAYTGluUHZhhlUCA9f,Embody,I Miss You,I Miss You,48,176000,False,0.702,0.828,0,-3.068,1,0.0312,0.0163,7.61e-06,0.0732,0.862,105.024,4,deep-house
+83538,56ZstVdH2J5FXTTOKNNxfp,Martin Garrix;Julian Jordan,Sentio,Funk,49,189600,False,0.757,0.623,1,-4.335,0,0.0434,0.00655,0.857,0.112,0.24,125.017,4,progressive-house
+83860,580VDxu67H9yZyBFyfpUrZ,Tujamo;Kelvyn Colt,Taking You Home,Taking You Home,55,152727,False,0.736,0.78,6,-6.328,0,0.0473,0.0251,2.04e-06,0.404,0.186,120.982,4,progressive-house
+24989,37KKLREyLmhaprjrEhF2KX,Inner City;Groove Corporation,Paradise Remixed,Ain't Nobody Better - Groove Corporation Remix,5,364989,False,0.658,0.87,6,-10.374,0,0.0548,0.00113,0.376,0.092,0.761,119.42,4,detroit-techno
+24546,3yDRmusu4Br0zzfdSzEGeH,Drexciya,Journey of the Deep Sea Dweller III,The Countdown Has Begun,9,187195,False,0.766,0.98,11,-10.674,0,0.0518,0.00341,0.921,0.105,0.46,124.306,4,detroit-techno
+43486,44nWOn7DicjhIXPO8esW6c,Jéssica Augusto,Espírito Santo Vem,Espírito Santo Vem,28,328680,False,0.464,0.425,0,-7.368,1,0.0288,0.592,0.0,0.133,0.161,107.951,4,groove
+23281,6EJuJAg1Ydjkoj9SCwMUyN,HUGEL;Jude & Frank;Twolate,La candela viva,La candela viva,51,174600,False,0.579,0.987,9,-4.069,0,0.0706,0.000243,0.744,0.129,0.343,125.021,4,deep-house
+109927,2TgTGJyiWf1ptW5g3QG938,Nightmares On Wax,Imagineering,Imagineering,47,274973,False,0.619,0.184,9,-12.242,0,0.0324,0.651,0.847,0.134,0.389,146.338,4,techno
+73761,3257Fh3Zpkmvrx3SJdDRzg,Wehbba,Dynamo,Strange Dreamz,39,254659,False,0.739,0.81,1,-6.961,0,0.0612,0.0014,0.862,0.0943,0.526,132.001,4,minimal-techno
+24149,2FKj5mDKGQxwyouzfFhO5Z,Jeff Mills,SIGHT SOUND AND SPACE,Sleepy Time,12,187706,False,0.669,0.67,10,-12.287,0,0.0478,0.85,0.85,0.106,0.739,113.692,4,detroit-techno
+23049,3TmpdfRQpuPJzd0j7gqED6,The Avener;Phoebe Killdeer,Autumn Vibes 2022,Fade Out Lines - The Avener Rework,0,276000,False,0.855,0.693,8,-5.662,0,0.0308,0.0165,0.0794,0.118,0.687,119.005,4,deep-house
+83276,6tDtuaCX0sIea6o8Qmpyae,Armin van Buuren;Husky,"Feel Again, Pt. 2",Shot At Love,0,202677,False,0.54,0.916,6,-6.275,1,0.0382,0.00237,0.00015,0.0622,0.262,126.999,4,progressive-house
+13018,7tlw2BnFAfaq10wMmrRzWo,Bad Boy Bill,The Album,Rockit,22,155653,False,0.866,0.574,7,-7.836,1,0.0649,0.00108,0.443,0.0406,0.602,127.951,4,chicago-house
+83723,3Sqk8YYMHkLdBiihWCQFYZ,KSHMR;Marnik;Mitika,Mandala (feat. Mitika) [Official Sunburn 2016 Anthem Extended],Mandala (feat. Mitika) - Official Sunburn 2016 Anthem Extended,44,176250,False,0.52,0.958,4,-2.671,0,0.474,0.00407,0.169,0.164,0.256,127.907,4,progressive-house
+83763,7DPwiCg4kj4P8EJmWYaIhc,Yves V;Zaeden;Jermaine Fleur,Something Like (feat. Jermaine Fleur),Something Like (feat. Jermaine Fleur),29,219677,False,0.571,0.613,0,-9.566,1,0.0411,0.102,5.01e-05,0.0885,0.474,123.967,4,progressive-house
+23487,2ieFaRzeA5yfRjanzaBS8Q,Black Coffee;Maxine Ashley;Sun-El Musician,Subconsciously,You Need Me (feat. Maxine Ashley & Sun-El Musician),52,375917,False,0.658,0.811,2,-13.014,0,0.0365,0.451,0.366,0.0781,0.246,117.988,4,deep-house
+24207,4L60ULqvJpqFReaNwmq8F0,Moodymann,Forevernevermore,Don’t You Want My Love,44,264360,False,0.735,0.641,6,-11.343,1,0.0959,0.00135,0.89,0.228,0.481,113.402,4,detroit-techno
+24404,3p7Ydiltj799Rx3JfjARxF,Moodymann,Forevernevermore,Tribute,38,361066,False,0.765,0.753,7,-9.061,1,0.147,0.509,0.588,0.221,0.493,120.486,4,detroit-techno
+23234,5HCMxtjQaeLrNQOT5qRksq,The Him;Sorana;Kyco;Barkley,Oasis (Kyco x Barkley Remix),Oasis - Kyco x Barkley Remix,51,163170,False,0.814,0.755,4,-8.523,0,0.0751,0.013,0.0026,0.0889,0.55,122.981,4,deep-house
+109813,5JEuIrxJuQ8uwaV9oB3xqc,Lilly Palmer,Listen To Me,Listen To Me,44,416281,False,0.777,0.932,4,-5.154,1,0.0645,0.00014,0.887,0.0805,0.363,128.007,4,techno
+23837,0hgRmK0ouFXfDeYPCsezNv,Michael Calfan;Selva;Jex,Fall To Pieces (feat. Jex),Fall To Pieces (feat. Jex),52,171640,False,0.783,0.75,9,-6.488,0,0.102,0.0334,0.00185,0.119,0.552,122.022,4,deep-house
