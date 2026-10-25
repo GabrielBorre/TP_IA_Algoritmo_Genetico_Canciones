@@ -1,4 +1,23 @@
 # TP IA 2C2026 Algoritmo Genetico Canciones
+
+Este proyecto se desarrolló en el marco de la asignatura Inteligencia Artificial de la UTN FRBA durante el segundo cuatrimestre del 2026.
+
+El grupo que lo llevó adelante fue integrado por:
+
+- León, Tomás Guillermo
+- Garaventa, María Sol 
+- Marin, Ariel German 
+- Schwartz, Tomás
+- Borré, Gabriel Agustín
+- Llanos, Emanuel Agustín
+- Martinez Almiron, Paula
+- Valenzuela, Ramon
+
+
+
+
+
+## Contenido del repositorio
 Repositorio que contiene el desarrollo de un algoritmo genético que busca encontrar el set de 15 canciones más apta para una fiesta en base a una función de aptitud definida por el grupo
 
 El total de canciones utilizadas para ejecutar el algoritmo se encuentra en el archivo CSV subido a este repositorio. El mismo consta de un total de 100 canciones, las cuales cuentan con las características consignadas en las columnas del archivo.
